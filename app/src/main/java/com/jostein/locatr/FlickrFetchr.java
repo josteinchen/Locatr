@@ -20,6 +20,7 @@ import java.util.List;
 
 /**
  * Created by jostein on 2015/12/9.
+ * github edited
  */
 public class FlickrFetchr {
 
