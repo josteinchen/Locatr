@@ -1,0 +1,35 @@
+:app:signingReport
+Variant: releaseUnitTest
+Config: none
+----------
+Variant: release
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\jostein\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: A9:28:7B:41:EC:A1:52:8B:2D:77:29:FE:8F:87:56:25
+SHA1: FB:E6:97:FA:C0:22:BB:C9:E3:1E:91:BA:85:B7:FB:9E:2D:62:72:A7
+Valid until: 2044年1月5日 星期二
+----------
+Variant: debug
+Config: debug
+Store: C:\Users\jostein\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: A9:28:7B:41:EC:A1:52:8B:2D:77:29:FE:8F:87:56:25
+SHA1: FB:E6:97:FA:C0:22:BB:C9:E3:1E:91:BA:85:B7:FB:9E:2D:62:72:A7
+Valid until: 2044年1月5日 星期二
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\jostein\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: A9:28:7B:41:EC:A1:52:8B:2D:77:29:FE:8F:87:56:25
+SHA1: FB:E6:97:FA:C0:22:BB:C9:E3:1E:91:BA:85:B7:FB:9E:2D:62:72:A7
+Valid until: 2044年1月5日 星期二
+----------
+
+BUILD SUCCESSFUL
+
+Total time: 5.28 secs
